@@ -23,3 +23,10 @@
 |     Get      |     *                  |404 page (matches any route not defined above)
 ------------------------------------------------------------\\
 
+Data Plan
+places should have a 
+name    (string) []
+city    (string) []
+state   (string) []
+cuisines(string) []
+pic     (string) []
